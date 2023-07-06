@@ -12,6 +12,7 @@
 }
 
 .button-container {
+    /* This can change the size of button? */
     display: flex;
     padding: 30px;
     margin: 10px 5px;
@@ -24,7 +25,7 @@
 }
   
 .center {
-    margin: 0;
+    margin: 10;
     position: absolute;
     top: 50%;
     left: 50%;
